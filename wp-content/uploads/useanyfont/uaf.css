@@ -1,0 +1,28 @@
+			@font-face {
+				font-family: 'bc romans';
+				font-style: normal;
+				src: url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010659bc-romans.eot');
+				src: local('bc romans'), url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010659bc-romans.eot') format('embedded-opentype'), url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010659bc-romans.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'bc roman ita';
+				font-style: normal;
+				src: url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010720bc-roman-ita.eot');
+				src: local('bc roman ita'), url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010720bc-roman-ita.eot') format('embedded-opentype'), url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010720bc-roman-ita.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'bc bold ita';
+				font-style: normal;
+				src: url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010905bc-bold-ita.eot');
+				src: local('bc bold ita'), url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010905bc-bold-ita.eot') format('embedded-opentype'), url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010905bc-bold-ita.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'bc bold';
+				font-style: normal;
+				src: url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010944bc-bold.eot');
+				src: local('bc bold'), url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010944bc-bold.eot') format('embedded-opentype'), url('//angularwp.jourblanc.fr/wp-content/uploads/useanyfont/150819010944bc-bold.woff') format('woff');
+			}
+						body{
+					font-family: 'bc romans' !important;
+				}
+		
